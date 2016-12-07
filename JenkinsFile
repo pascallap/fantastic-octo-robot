@@ -1,4 +1,0 @@
-stage('Checkout'){
-  checkout scm
-}
-
